@@ -1,0 +1,16 @@
+.love-poster {
+  padding: 2rem;
+  background-color: #ffdde1;
+  text-align: center;
+}
+
+.love-poster h2 {
+  font-family: "Dancing Script", cursive;
+  font-size: 2rem;
+  color: #e91e63;
+}
+
+.love-poster p {
+  color: #880e4f;
+  font-size: 1.2rem;
+}
