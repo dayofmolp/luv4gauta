@@ -1,0 +1,27 @@
+.timeline {
+  padding: 2rem;
+  background-color: #ffe4e1;
+  text-align: center;
+}
+
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.timeline-item {
+  padding: 1rem;
+  background-color: #fff;
+  border: 2px solid #ff6f91;
+  border-radius: 8px;
+}
+
+.timeline-item h3 {
+  margin: 0;
+  color: #e91e63;
+}
+
+.timeline-item p {
+  color: #880e4f;
+}
